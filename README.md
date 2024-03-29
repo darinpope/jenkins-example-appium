@@ -1,1 +1,1 @@
-# jenkins-example-appium
+# jenkins-example-playwright-java
