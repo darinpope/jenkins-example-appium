@@ -14,7 +14,6 @@
     <maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
     <maven.compiler.release>${maven.compiler.source}</maven.compiler.release>
     <appium.version>9.2.2</appium.version>
-    <playwright.version>1.42.0</playwright.version>
     <maven-clean-plugin.version>3.3.2</maven-clean-plugin.version>
     <maven-resources-plugin.version>3.3.1</maven-resources-plugin.version>
     <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
