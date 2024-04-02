@@ -1,5 +1,5 @@
 pipeline {
-  agent { label 'macos' }
+  agent { label 'linux' }
   environment {
     TEST_URL="http://192.168.1.25:4723/"
   }
